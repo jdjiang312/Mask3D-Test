@@ -1,0 +1,14 @@
+0:
+  color:
+  - 128
+  - 128
+  - 128
+  name: other
+  validation: true
+1:
+  color:
+  - 165
+  - 82
+  - 42
+  name: fallentree
+  validation: true

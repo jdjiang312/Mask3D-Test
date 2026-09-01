@@ -1,0 +1,5 @@
+- general.experiment_name=fallentree_mask3d
+- trainer.max_epochs=1000
+- data.batch_size=5
+- data.num_workers=8
+- data.voxel_size=0.15

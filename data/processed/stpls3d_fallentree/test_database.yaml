@@ -1,0 +1,96 @@
+- color_mean:
+  - 0.0
+  - 0.0
+  - 0.0
+  color_std:
+  - 0.0
+  - 0.0
+  - 0.0
+  file_len: 7156
+  filepath: data/processed/stpls3d_fallentree/test/Plot_9_Easy.pth
+  instance_gt_filepath: data/processed/stpls3d_fallentree/instance_gt/test/Plot_9_Easy.txt
+  internal_instance_ignore_label: -1
+  raw_filepath: STPLS3D/test/Plot_9_Easy.txt
+  raw_instance_ignore_label: -100
+  raw_segmentation_filepath: STPLS3D/test/Plot_9_Easy.txt
+  scene: Plot_9_Easy.txt
+- color_mean:
+  - 0.0
+  - 0.0
+  - 0.0
+  color_std:
+  - 0.0
+  - 0.0
+  - 0.0
+  file_len: 95329
+  filepath: data/processed/stpls3d_fallentree/test/Plot_10_Easy.pth
+  instance_gt_filepath: data/processed/stpls3d_fallentree/instance_gt/test/Plot_10_Easy.txt
+  internal_instance_ignore_label: -1
+  raw_filepath: STPLS3D/test/Plot_10_Easy.txt
+  raw_instance_ignore_label: -100
+  raw_segmentation_filepath: STPLS3D/test/Plot_10_Easy.txt
+  scene: Plot_10_Easy.txt
+- color_mean:
+  - 0.0
+  - 0.0
+  - 0.0
+  color_std:
+  - 0.0
+  - 0.0
+  - 0.0
+  file_len: 23349
+  filepath: data/processed/stpls3d_fallentree/test/Plot_14_Medium.pth
+  instance_gt_filepath: data/processed/stpls3d_fallentree/instance_gt/test/Plot_14_Medium.txt
+  internal_instance_ignore_label: -1
+  raw_filepath: STPLS3D/test/Plot_14_Medium.txt
+  raw_instance_ignore_label: -100
+  raw_segmentation_filepath: STPLS3D/test/Plot_14_Medium.txt
+  scene: Plot_14_Medium.txt
+- color_mean:
+  - 0.0
+  - 0.0
+  - 0.0
+  color_std:
+  - 0.0
+  - 0.0
+  - 0.0
+  file_len: 42641
+  filepath: data/processed/stpls3d_fallentree/test/Plot_15_Medium.pth
+  instance_gt_filepath: data/processed/stpls3d_fallentree/instance_gt/test/Plot_15_Medium.txt
+  internal_instance_ignore_label: -1
+  raw_filepath: STPLS3D/test/Plot_15_Medium.txt
+  raw_instance_ignore_label: -100
+  raw_segmentation_filepath: STPLS3D/test/Plot_15_Medium.txt
+  scene: Plot_15_Medium.txt
+- color_mean:
+  - 0.0
+  - 0.0
+  - 0.0
+  color_std:
+  - 0.0
+  - 0.0
+  - 0.0
+  file_len: 54853
+  filepath: data/processed/stpls3d_fallentree/test/Plot_19_Difficult.pth
+  instance_gt_filepath: data/processed/stpls3d_fallentree/instance_gt/test/Plot_19_Difficult.txt
+  internal_instance_ignore_label: -1
+  raw_filepath: STPLS3D/test/Plot_19_Difficult.txt
+  raw_instance_ignore_label: -100
+  raw_segmentation_filepath: STPLS3D/test/Plot_19_Difficult.txt
+  scene: Plot_19_Difficult.txt
+- color_mean:
+  - 0.0
+  - 0.0
+  - 0.0
+  color_std:
+  - 0.0
+  - 0.0
+  - 0.0
+  file_len: 32647
+  filepath: data/processed/stpls3d_fallentree/test/Plot_20_Difficult.pth
+  instance_gt_filepath: data/processed/stpls3d_fallentree/instance_gt/test/Plot_20_Difficult.txt
+  internal_instance_ignore_label: -1
+  raw_filepath: STPLS3D/test/Plot_20_Difficult.txt
+  raw_instance_ignore_label: -100
+  raw_segmentation_filepath: STPLS3D/test/Plot_20_Difficult.txt
+  scene: Plot_20_Difficult.txt
