@@ -1,0 +1,36 @@
+# @package _group_
+
+train_mode: train
+validation_mode: validation
+test_mode: test
+
+ignore_label: 255
+add_raw_coordinates: true
+add_colors: true
+add_normals: true
+# RGB is all zero in the supplied ALS TXT files. The three preprocessing
+# normal channels are constant-one occupancy features; raw XYZ is appended
+# separately for Mask3D positional encoding and removed before the backbone.
+in_channels: 6
+num_labels: 2
+add_instance: ${general.add_instance}
+task: ${general.task}
+
+pin_memory: true
+num_workers: 4
+batch_size: 2
+test_batch_size: 1
+cache_data: false
+
+voxel_size: 0.20
+reps_per_epoch: ${general.reps_per_epoch}
+
+cropping: false
+cropping_args:
+  min_points: 30
+  aspect: 0.8
+  min_crop: 0.5
+  max_crop: 1.0
+crop_min_size: 20
+crop_length: 2000.0
+cropping_v1: false
